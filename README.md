@@ -1,2 +1,2 @@
-# Richard-Collomb Numeric
-Richard Collomb Numeric Co-Drivers In French
+# Richard-Collomb
+Richard Collomb's Co-Drivers in French
